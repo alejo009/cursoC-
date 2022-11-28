@@ -1,0 +1,8 @@
+E:\Curso c#\MetodoVoid\MetodoVoid\bin\Debug\MetodoVoid.exe.config
+E:\Curso c#\MetodoVoid\MetodoVoid\bin\Debug\MetodoVoid.exe
+E:\Curso c#\MetodoVoid\MetodoVoid\bin\Debug\MetodoVoid.pdb
+E:\Curso c#\MetodoVoid\MetodoVoid\obj\Debug\MetodoVoid.csproj.AssemblyReference.cache
+E:\Curso c#\MetodoVoid\MetodoVoid\obj\Debug\MetodoVoid.csproj.SuggestedBindingRedirects.cache
+E:\Curso c#\MetodoVoid\MetodoVoid\obj\Debug\MetodoVoid.csproj.CoreCompileInputs.cache
+E:\Curso c#\MetodoVoid\MetodoVoid\obj\Debug\MetodoVoid.exe
+E:\Curso c#\MetodoVoid\MetodoVoid\obj\Debug\MetodoVoid.pdb
